@@ -1,0 +1,12 @@
+@import "./text";
+@import "./layout";
+
+body {
+  margin: auto;
+  background-image: url("../images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-color: hsl(225, 100%, 94%);
+  height: 100vh;
+}
+
+
